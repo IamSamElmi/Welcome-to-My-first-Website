@@ -12,6 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 <h1> Hello World </h1>
+<h2> Hello </h2>
+<h3> What world </h3>
 
 - Bulleted
 - List
